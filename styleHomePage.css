@@ -42,6 +42,7 @@ nav {
   position: -webkit-sticky;
   top: 0;
   background: #ffffff;
+  z-index: 2;
 }
 
 nav ul {
@@ -99,16 +100,16 @@ img {
   object-fit: cover;
 }
 .grid > article {
-  box-shadow: 5px 5px 5px 0px black;
-  border-radius: 20px;
+  box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.363);
+  border-radius: 5px;
   text-align: center;
   background: #394867;
   height: 290px;
-  transition: transform;
+  transition: 0.2s transform;
 }
 .grid > article img {
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 .grid > article:hover {
   transform: scale(1.1);
