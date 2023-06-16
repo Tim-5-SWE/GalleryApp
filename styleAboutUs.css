@@ -25,7 +25,7 @@ body {
   font-weight: bold;
   float: left;
   font-family: Segoe UI;
-  color: #394867;
+  color: #242d3f;
 }
 
 .menu {
@@ -78,60 +78,66 @@ nav ul li a:hover {
   font-family: kadwa;
   margin-left: 10px;
 }
+.keterangan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .keterangan img {
   width: 350px;
   height: 350px;
-  margin-left: 80px;
-  margin-top: 20px;
 }
 .keterangan p {
   font-size: 15px;
-  margin-left: 450px;
-  margin-top: -260px;
-  color: #394867;
+  color: #242d3f;
   font-family: Jomolhari;
   font-style: bold;
-  width: 600px;
+  max-width: 600px;
   text-align: justify;
 }
 .explore {
-  width: 90px;
+  width: 80px;
   height: 12px;
   font-size: 14px;
   border-radius: 10px;
   color: #ffffff;
-  background: #394867;
+  background: #242d3f;
   text-align: center;
   background-position: absolute;
   padding: 15px;
   margin-top: 20px;
-  margin-left: 670px;
 }
 .last h3 {
   font-size: 17px;
   font-family: Jomolhari;
-  margin-top: 10px;
-  margin-left: 10px;
 }
 .last p {
   font-size: 15px;
   font-family: Jomolhari;
-  margin-left: 10px;
-}
-.contactUs {
-  margin-left: 1100px;
-  margin-top: -60px;
 }
 .contactUs h3 {
   font-size: 17px;
   font-family: Jomolhari;
-  margin-left: 6px;
   text-decoration: underline;
 }
 .contactUs img {
-  margin-top: 10px;
   width: 28px;
   height: 28px;
+  margin-top: 10px;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
 }
 .garis {
   border-bottom: 1px solid black;
@@ -145,5 +151,5 @@ nav ul li a:hover {
   text-align: center;
 }
 .aboutUs {
-  background-color: #3948673f;
+  background-color: #dddddd;
 }

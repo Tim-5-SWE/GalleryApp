@@ -8,6 +8,7 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: "Open Sans", sans-serif;
+  background-color: #dddddd;
 }
 
 .wrapper {
@@ -26,7 +27,7 @@ body {
   font-weight: bold;
   float: left;
   font-family: Segoe UI;
-  color: #394867;
+  color: #242d3f;
 }
 
 .menu {
@@ -73,7 +74,9 @@ nav ul li a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #394867;
+  background-image: url("https://drive.google.com/uc?export=view&id=1ZquV63GF7iMNN1ye31PeE9ER5wB2APWu");
+  background-size: cover;
+  background-position: center;
 }
 .welcome input {
   width: 300px;
@@ -103,7 +106,7 @@ img {
   box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.363);
   border-radius: 5px;
   text-align: center;
-  background: #394867;
+  background: #242d3f;
   height: 290px;
   transition: 0.2s transform;
   cursor: pointer;
@@ -168,19 +171,19 @@ img {
   transition: 0.25s;
 }
 .modal-close:hover {
-  color: #394867;
+  color: #242d3f;
 }
 button {
   width: 80px;
   height: 50px;
   border-radius: 5px;
   font-style: bold;
-  color: #394867;
+  color: #242d3f;
   background-color: #ffffff;
   margin-left: 15px;
 }
 .myGallery {
-  background-color: #3948673f;
+  background-color: #dddddd;
 }
 
 @media (max-width: 1000px) {
