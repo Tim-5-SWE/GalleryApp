@@ -17,6 +17,12 @@ export const gallery = [
     kategori: "Travel",
     desc: "Siap keliling dunia~",
   },
+  {
+    nama: "Hadi",
+    url: "https://drive.google.com/file/d/1ayZhVEqnMcA21_xQ8MsE-hoB4x_8rMhY/view?usp=sharing",
+    kategori: "Artist",
+    desc: "Liboran",
+  },
  {
     nama: "Jaehyun's Clothes",
     url: "https://i.pinimg.com/564x/42/2b/c0/422bc0e16f8dcef3c79c71ea0cfe84f8.jpg",
@@ -94,6 +100,12 @@ export const gallery = [
     url: "https://i.pinimg.com/564x/d1/d8/3e/d1d83e26ecda8b3eda4a479e28dbf6f4.jpg",
     kategori: "Animals",
     desc: "Cubingitttt",
+  },
+  {
+    nama: "Putri",
+    url: "https://drive.google.com/file/d/1uX2uCMDxFI4vLxh_WWUvtC6dp1ci7m4c/view?usp=sharing",
+    kategori: "Artist",
+    desc: "Beaches",
   },
   {
     nama: "Kucing Oren ",
