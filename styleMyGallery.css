@@ -179,6 +179,9 @@ button {
   background-color: #ffffff;
   margin-left: 15px;
 }
+.myGallery {
+  background-color: #3948673f;
+}
 
 @media (max-width: 1000px) {
   .grid {
