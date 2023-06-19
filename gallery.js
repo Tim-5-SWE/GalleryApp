@@ -228,6 +228,12 @@ export const gallery = [
     desc: "Kita pernah lama bersama, suatu titik di bukit ini adalah kita",
   },
   {
+    nama: "Citra",
+    url: "https://drive.google.com/uc?export=view&id=1fS5o95pIqdzm62kP3c8IEVc_RdIumqIb",
+    kategori: "Artist",
+    desc: "Senyum itu ibadah",
+  },
+  {
     nama: "Sawah",
     url: "https://drive.google.com/uc?export=view&id=1SatwRAzgXFnO5_7JJw76vd9pn6lMdsOh",
     kategori: "Nature",
