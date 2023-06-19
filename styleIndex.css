@@ -146,6 +146,6 @@ nav ul li a:hover {
 }
 @media (max-width: 200px) {
   .info {
-    font-size: 80%;
+    font-size: 60%;
   }
 }
