@@ -208,6 +208,10 @@ button {
   .grid {
     grid-template-columns: repeat(2, 1fr);
   }
+  .modal-image {
+    width: 50%;
+    height: 95%;
+  }
 }
 @media (max-width: 500px) {
   .grid {
@@ -223,7 +227,7 @@ button {
     grid-template-columns: repeat(1, 1fr);
   }
   .modal-image {
-    width: 1080px;
-    height: 1920px;
+    width: 66%;
+    height: 95%;
   }
 }
