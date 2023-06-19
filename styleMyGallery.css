@@ -213,7 +213,7 @@ button {
   .grid {
     grid-template-columns: repeat(1, 1fr);
   }
-  .modal {
+  .modal-image {
     width: 50%;
   }
 }
