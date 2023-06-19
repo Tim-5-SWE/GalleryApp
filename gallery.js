@@ -42,6 +42,12 @@ export const gallery = [
     desc: "Just an abstrack object",
   },
   {
+    nama: "Hofif",
+    url: "https://drive.google.com/uc?export=view&id=1d6TzU9Us3S6DsJNvkCOcay7SKrINLgbU",
+    kategori: "Artist",
+    desc: "Pura-pura candid dulu",
+  },
+  {
     nama: "Grey",
     url: "https://i.pinimg.com/564x/ed/3c/d8/ed3cd8ca8089507f2eda31882c41808d.jpg",
     kategori: "Abstrak",
@@ -52,6 +58,12 @@ export const gallery = [
     url: "https://i.pinimg.com/564x/98/6c/81/986c810153214fcc52f11e0570157575.jpg",
     kategori: "Sport",
     desc: "I believe I can fly",
+  },
+  {
+    nama: "Inez",
+    url: "https://drive.google.com/uc?export=view&id=1r-Xy2W3g3M5iesgev25utgIxjkYljmbG",
+    kategori: "Artist",
+    desc: "Jangan lupa healing besti",
   },
   {
     nama: "Basketball",
@@ -96,6 +108,12 @@ export const gallery = [
     desc: "Kabut ya say",
   },
   {
+    nama: "Rafiq",
+    url: "https://drive.google.com/uc?export=view&id=1GMRzbfaASLsDRbTMJWvZO1GWCOND-VxB",
+    kategori: "Artist",
+    desc: "Minal a'idzin wal faidzin",
+  },
+  {
     nama: "Night View",
     url: "https://drive.google.com/uc?export=view&id=1NwkH-RtVYdCHweFeBobKxafk-qppJvxk",
     kategori: "Cities",
@@ -118,6 +136,12 @@ export const gallery = [
     url: "https://drive.google.com/uc?export=view&id=1m6CT-7AzN52hCYdttVpsq9kw-LNxQu7W",
     kategori: "Animals",
     desc: "Harus nurut sama majikan",
+  },
+  {
+    nama: "Rizka",
+    url: "https://drive.google.com/uc?export=view&id=1scfCC3mnf8DxFP-_ovgnU0n8eG2rtzw-",
+    kategori: "Artist",
+    desc: "Jangan lupa minum",
   },
   {
     nama: "Strawberry Squash",
@@ -178,6 +202,12 @@ export const gallery = [
     url: "https://drive.google.com/uc?export=view&id=1iAnfvgqLLS062KgvUXcDV68aMDNNV7RM",
     kategori: "Nature",
     desc: "Fresh air",
+  },
+  {
+    nama: "Tiara",
+    url: "https://drive.google.com/uc?export=view&id=1UarVgvWa2qoxWlOWB-TQDpCoo2yzqQzz",
+    kategori: "Artist",
+    desc: "Jalan-jalan yu",
   },
   {
     nama: "Taman",
