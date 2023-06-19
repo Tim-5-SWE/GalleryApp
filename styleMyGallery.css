@@ -213,13 +213,17 @@ button {
   .grid {
     grid-template-columns: repeat(1, 1fr);
   }
+  .modal-image {
+    width: 60%;
+    height: 95%;
+  }
 }
 @media (max-width: 200px) {
   .grid {
     grid-template-columns: repeat(1, 1fr);
   }
-  .modal {
-    width: 720px;
-    height: 1280px;
+  .modal-image {
+    width: 1080px;
+    height: 1920px;
   }
 }
