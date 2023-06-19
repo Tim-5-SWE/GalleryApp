@@ -218,7 +218,7 @@ button {
   .grid {
     grid-template-columns: repeat(1, 1fr);
   }
-  .image-container {
+  .modal.show {
     width: 720px;
     height: 1280px;
   }
