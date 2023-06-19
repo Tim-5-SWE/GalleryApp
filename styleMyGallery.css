@@ -227,7 +227,7 @@ button {
     grid-template-columns: repeat(1, 1fr);
   }
   .modal-image {
-    width: 66%;
+    width: 75%;
     height: 95%;
   }
 }
