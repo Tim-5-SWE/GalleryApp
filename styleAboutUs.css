@@ -37,7 +37,7 @@ nav {
   margin: auto;
   display: flex;
   line-height: 80px;
-  /* position: sticky; */
+  position: sticky;
   position: -webkit-sticky;
   top: 0;
   background: #ffffff;

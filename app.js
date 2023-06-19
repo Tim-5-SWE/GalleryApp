@@ -62,10 +62,14 @@ form.addEventListener("submit", (e) => {
       return image.nama.toLowerCase().startsWith(searchParam);
     });
   }
+  if (newGallery.length > 0) {
+    cardContainer.innerHTML = "";
 
-  cardContainer.innerHTML = "";
-
-  newGallery.forEach((image) => {
-    renderGallery(image);
-  });
+    newGallery.forEach((image) => {
+      renderGallery(image);
+    });
+  } else {
+    cardContainer.innerHTML =
+      '<h1 class="kosong">Pencarian tidak tersedia</h1>';
+  }
 });

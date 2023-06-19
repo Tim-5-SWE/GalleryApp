@@ -39,8 +39,8 @@ nav {
   margin: auto;
   display: flex;
   line-height: 80px;
-  /* position: sticky; */
-  position: -webkit-sticky;
+  position: sticky;
+  /* position: -webkit-sticky; */
   top: 0;
   background: #ffffff;
   z-index: 2;
@@ -133,6 +133,7 @@ img {
   justify-content: center;
   align-items: center;
   position: fixed;
+  z-index: 4;
   top: 0;
   left: 0;
   right: 0;
@@ -185,7 +186,14 @@ button {
 .myGallery {
   background-color: #dddddd;
 }
-
+.kosong {
+  font-size: 20px;
+  color: #242d3f;
+  font-family: Jomolhari;
+  font-style: bold;
+  width: 1100px;
+  text-align: center;
+}
 @media (max-width: 1000px) {
   .grid {
     grid-template-columns: repeat(4, 1fr);

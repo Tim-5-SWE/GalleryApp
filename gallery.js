@@ -5,13 +5,13 @@ export const gallery = [
     kategori: "Nature",
     desc: "Bunga aster dapat diartikan sebagai rasa kebijaksanaan,keberanian, dan keyakinan",
   },
-{
+  {
     nama: "Bunga Merah",
     url: "https://drive.google.com/uc?export=view&id=1M2oIza_iHlFeIO56GNZYiDQIKXdFXQBg",
     kategori: "Nature",
     desc: "Warnanya cantik kaya yang moto",
   },
- {
+  {
     nama: "Airplane View",
     url: "https://i.pinimg.com/564x/16/e7/b7/16e7b7c5efa3f4360205723f18004921.jpg",
     kategori: "Travel",
@@ -19,11 +19,11 @@ export const gallery = [
   },
   {
     nama: "Hadi",
-    url: "https://drive.google.com/file/d/1ayZhVEqnMcA21_xQ8MsE-hoB4x_8rMhY/view?usp=sharing",
+    url: "https://drive.google.com/uc?export=view&id=18K2MTchPXrxZTegBm6dBBEn1VU83FPrN",
     kategori: "Artist",
     desc: "Liboran",
   },
- {
+  {
     nama: "Jaehyun's Clothes",
     url: "https://i.pinimg.com/564x/42/2b/c0/422bc0e16f8dcef3c79c71ea0cfe84f8.jpg",
     kategori: "Fashion",
@@ -78,6 +78,12 @@ export const gallery = [
     desc: "Masakan ala ala for dinner",
   },
   {
+    nama: "Nabilla",
+    url: "https://drive.google.com/uc?export=view&id=1DHo88-fVm0Qq4iq6kqYI5UtcL2ENYsU7",
+    kategori: "Artist",
+    desc: "Nungguin kamu lama banget:)",
+  },
+  {
     nama: "Lunch",
     url: "https://drive.google.com/uc?export=view&id=1t70uNRkNUPx9PC0FTuReQ3YLTTrmzfnD",
     kategori: "Food & Drink",
@@ -103,7 +109,7 @@ export const gallery = [
   },
   {
     nama: "Putri",
-    url: "https://drive.google.com/file/d/1uX2uCMDxFI4vLxh_WWUvtC6dp1ci7m4c/view?usp=sharing",
+    url: "https://drive.google.com/uc?export=view&id=1uX2uCMDxFI4vLxh_WWUvtC6dp1ci7m4c",
     kategori: "Artist",
     desc: "Beaches",
   },
@@ -126,6 +132,12 @@ export const gallery = [
     desc: "Nyantai dong meng",
   },
   {
+    nama: "Antony",
+    url: "https://drive.google.com/uc?export=view&id=1fiduiLQyc2RfGyc8_ewfZ50YhAbte58r",
+    kategori: "Artist",
+    desc: "Jangan lupa pake masker teman",
+  },
+  {
     nama: "Gedung Tinggi",
     url: "https://drive.google.com/uc?export=view&id=1WlEuliPDBYtFe1U8wKjifPpVSUFitvYe",
     kategori: "Cities",
@@ -136,6 +148,12 @@ export const gallery = [
     url: "https://drive.google.com/uc?export=view&id=19MTysh9ydiit7v8wZZE453SFSn_pDEb-",
     kategori: "Nature",
     desc: "Dunia dikala senja teduh pelita",
+  },
+  {
+    nama: "Mirza",
+    url: "https://drive.google.com/uc?export=view&id=1onF1cnojbGkrClmW9NNMAZ69G28N-aNz",
+    kategori: "Artist",
+    desc: "Melirik kamu dan dia :(",
   },
   {
     nama: "Gunung",
@@ -222,6 +240,12 @@ export const gallery = [
     desc: "Fangirling timee",
   },
   {
+    nama: "Aisha",
+    url: "https://drive.google.com/uc?export=view&id=1Z37NN6XELjgtVbUGLoTpQ3SakwO7lrbg",
+    kategori: "Artist",
+    desc: "Jangan lupa tersenyum",
+  },
+  {
     nama: "Still Healthy",
     url: "https://drive.google.com/uc?export=view&id=1K6Fnn4w6RbuctCm_IWMhVxJuX_9jU33n",
     kategori: "Sport",
@@ -252,6 +276,12 @@ export const gallery = [
     desc: "Neww nail art",
   },
   {
+    nama: "Aulia",
+    url: "https://drive.google.com/uc?export=view&id=1frn1A8nmCd2-lErNjhjo1r5YxxGnBBm-",
+    kategori: "Artist",
+    desc: "Ngafe dulu yuk",
+  },
+  {
     nama: "Jalanan sore",
     url: "https://drive.google.com/uc?export=view&id=1xdIBxxnIpB5bBCdbhKPjlk12Jkmt4kOx",
     kategori: "Travel",
@@ -268,6 +298,12 @@ export const gallery = [
     url: "https://drive.google.com/uc?export=view&id=14Dx9way4Zbo87AEiForpZWm28h3S3tVS",
     kategori: "Nature",
     desc: "Say Masya Allah",
+  },
+  {
+    nama: "Evaa",
+    url: "https://drive.google.com/uc?export=view&id=1IcTAQ7HNzEPxhk-kihmOdqxeGu5fJ3lL",
+    kategori: "Artist",
+    desc: "Jung Fakhriyyatum Muslimah (Istrinya Jaehyun) ",
   },
   {
     nama: "Airplane View",
