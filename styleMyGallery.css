@@ -219,6 +219,6 @@ button {
     grid-template-columns: repeat(1, 1fr);
   }
   .modal-image {
-    width: 50%;
+    width: 100%;
   }
 }
