@@ -144,8 +144,3 @@ nav ul li a:hover {
 .index {
   background-color: #dddddd;
 }
-@media (max-width: 200px) {
-  .info {
-    font-size: 60%;
-  }
-}
